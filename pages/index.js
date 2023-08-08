@@ -23,15 +23,22 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.
+          Sou um desenvolvedor web júnior apaixonado por criar experiências
+          interativas na web. Atualmente, estou focado em estudar e aprimorar
+          minhas habilidades em React e Next.js. <br />
+          Tenho uma mente curiosa e sede de aprendizado, estou sempre em busca
+          de novos desafios e oportunidades para expandir meus conhecimentos.{' '}
+          <br />
+          Estou entusiasmado em trabalhar em projetos que envolvam a criação de
+          interfaces dinâmicas e responsivas, e estou empenhado em escrever
+          código limpo e eficiente. Estou animado para fazer parte deste mundo
+          em constante evolução da tecnologia web e contribuir para o sucesso de
+          projetos inovadores.
         </p>
         <br />
         <p>
-          (This is a sample website - you'll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (Este é apenas um simples website construído com a ajuda deste{' '}
+          <a href="https://nextjs.org/learn">tutorial Next.js</a>.)
         </p>
       </section>
 
